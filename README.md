@@ -1,0 +1,1 @@
+[Here](http://cs231n.github.io/) is the course notes
