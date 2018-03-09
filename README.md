@@ -1,1 +1,1 @@
-[Here](http://cs231n.github.io/) is the course notes
+[Here](http://cs231n.github.io/) are the course notes
